@@ -1,6 +1,8 @@
-angular.module("sportsStore").controller("sportsStoreCtrl", function ($scope) {
-  $scope.data = {
-    products: [
+angular
+  .module("sportsStore")
+  .constant("dataUrl", "https://localhost:44388/api/products")
+  .controller("sportsStoreCtrl", function ($scope, $http, dataUrl) {
+    const staticDataProducts = [
       {
         name: "Product #1",
         description: "A product",
@@ -25,6 +27,15 @@ angular.module("sportsStore").controller("sportsStoreCtrl", function ($scope) {
         category: "Category #3",
         price: 202,
       },
-    ],
-  };
-});
+    ];
+
+    $scope.data = {};
+    $http
+      .get(dataUrl + "/GetAllProducts")
+      .then(function (response) {
+        $scope.data.products = response.data;
+        console.log($scope.data.products);
+      }, function(res) {
+        $scope.data.error = res;
+      });
+  });
