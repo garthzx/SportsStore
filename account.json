@@ -1,0 +1,11 @@
+{
+  "Account": {
+    "Admin": {
+      "Username": "garthdayangang",
+      "Password": "OPEgldDTMXriCjce"
+    }
+  },
+  "ConnectionStrings": {
+    "Default": "mongodb+srv://garthdayangang:OPEgldDTMXriCjce@sportsstore.c6xlb.mongodb.net/?retryWrites=true&w=majority&appName=Sportsstore"
+  }
+}
