@@ -2,6 +2,7 @@
 
 First install node.js on your machine.
 
+After installing node.js, initialize an npm project in the root folder and install http-server package.
 ```
     npm init
     npm install http-server
