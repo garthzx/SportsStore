@@ -3,10 +3,10 @@ angular
   .config(function ($routeProvider) {
     $routeProvider
       .when("/complete", {
-        templateUrl: "/views/thankYou.html"
+        templateUrl: "/views/thankYou.html",
       })
       .when("/placeorder", {
-        templateUrl: "/views/placeOrder.html"
+        templateUrl: "/views/placeOrder.html",
       })
       .when("/checkout", {
         templateUrl: "/views/checkoutSummary.html",
