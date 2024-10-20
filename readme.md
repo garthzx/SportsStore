@@ -12,3 +12,5 @@ You'll also need the accompanying ASP.NET Web API 2 (.NET Framework) Project. Wi
 
 ## How to run
 Press **F5** and it will automatically launch the project and open a browser. Launch config is written in .vscode/launch.json.
+
+-- update from personal machine (test)
