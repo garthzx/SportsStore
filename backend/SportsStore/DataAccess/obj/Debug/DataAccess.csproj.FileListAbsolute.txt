@@ -1,0 +1,11 @@
+C:\Users\gdayang-ang\source\repos\SportsStore\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\gdayang-ang\source\repos\SportsStore\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\gdayang-ang\source\repos\SportsStore\DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\gdayang-ang\source\repos\SportsStore\DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\gdayang-ang\source\repos\SportsStore\DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\gdayang-ang\source\repos\SportsStore\DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\gdayang-ang\source\repos\SportsStore\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\gdayang-ang\source\repos\SportsStore\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\gdayang-ang\source\repos\SportsStore\DataAccess\obj\Debug\DataAccess.csproj.Up2Date
+C:\Users\gdayang-ang\source\repos\SportsStore\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\gdayang-ang\source\repos\SportsStore\DataAccess\obj\Debug\DataAccess.pdb

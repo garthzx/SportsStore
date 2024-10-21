@@ -1,0 +1,13 @@
+C:\Users\gdayang-ang\source\repos\SportsStore\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\gdayang-ang\source\repos\SportsStore\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\gdayang-ang\source\repos\SportsStore\BusinessLogicLayer\bin\Debug\DataAccess.dll
+C:\Users\gdayang-ang\source\repos\SportsStore\BusinessLogicLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\gdayang-ang\source\repos\SportsStore\BusinessLogicLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\gdayang-ang\source\repos\SportsStore\BusinessLogicLayer\bin\Debug\DataAccess.pdb
+C:\Users\gdayang-ang\source\repos\SportsStore\BusinessLogicLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\gdayang-ang\source\repos\SportsStore\BusinessLogicLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\gdayang-ang\source\repos\SportsStore\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\gdayang-ang\source\repos\SportsStore\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\gdayang-ang\source\repos\SportsStore\BusinessLogicLayer\obj\Debug\Business.450209FB.Up2Date
+C:\Users\gdayang-ang\source\repos\SportsStore\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\gdayang-ang\source\repos\SportsStore\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
