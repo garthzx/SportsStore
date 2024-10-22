@@ -40,3 +40,28 @@ INSERT INTO [Cart] VALUES (@cartId1, @userId1);
 INSERT INTO [CartItems] VALUES (NEWID(), @cartId1, @prod1);
 INSERT INTO [CartItems] VALUES (NEWID(), @cartId1, @prod1);
 INSERT INTO [CartItems] VALUES (NEWID(), @cartId1, @prod2);
+
+DECLARE @orderId1 UNIQUEIDENTIFIER = NEWID();
+
+INSERT INTO
+	[Orders]
+VALUES
+	(
+		@orderId1,
+		@userId1,
+		'Garth Ayang-ang',
+		'Madison',
+		'Mandaluyong',
+		'Metro Manila',
+		'1550',
+		'Philippines',
+		0
+	);
+
+INSERT INTO
+	[OrderDetails]
+VALUES
+	(NEWID(), @orderId1, @prodId1),
+	(NEWID(), @orderId1, @prodId1),
+	(NEWID(), @orderId1, @prodId2),
+	(NEWID(), @orderId1, @prodId3);
